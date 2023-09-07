@@ -4,8 +4,7 @@
 Ce projet a été creer dans le cadre de la formation xarala dont le but est de comprendre LARAVEL
 
 La solution permet :
-- Gestion des clients
-- La modifications des infos clients 
+- La gestion des utilisateurs
 <!-- - Gestion des locations des produits
 - Gestion des opérations de caisse
 - Gestion des recouvrements
